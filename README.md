@@ -4,10 +4,11 @@ Lecture Hand-on Codes
 Hands-on codes that we will use for our Lectures. 
 
 ## Table of contents
-* [Lecture 2](#lect2)
-* [Lecture 3](#lect3)
-* [Lecture 4](#lect4)
-* [Other Files](#others)
+* [Lecture 2](#lecture-2)
+* [Lecture 3](#lecture-3)
+* [Lecture 4](#lecture-4)
+* [Lecture 5](#lecture-5)
+* [Other Files](#other-files)
 * [Acknowledgements](#acknowledgements)
 
 ## Lecture 2
