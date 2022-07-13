@@ -9,7 +9,7 @@ Hands-on codes that we will use for our Lectures.
 * [Lecture 4](#lecture-4)
 * [Lecture 5](#lecture-5)
 * [Other Files](#other-files)
-* [Acknowledgements](#acknowledgements)
+* [References](#references)
 
 ## Lecture 2
 
